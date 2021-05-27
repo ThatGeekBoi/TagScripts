@@ -1,9 +1,14 @@
+↓↓↓↓↓↓↓CONTENT↓↓↓↓↓↓↓
+
 {delete}
 {let(avatar):{user(avatar)}}
 {let(name):{user(name)}}
 {let(gif):{rand:https://media.tenor.com/images/9f5887b73f77f2d2d093484dea4cc919/tenor.gif|https://c.tenor.com/OaAuKt8MREQAAAAj/cuddles-mam.gif~https://media.tenor.com/images/4d5a77b99ab86fc5e9581e15ffe34b5e/tenor.gif~https://media.tenor.com/images/e411846cebbe99eb56e42a4d188cf5ca/tenor.gif~https://media.tenor.com/images/0a1652de311806ce55820a7115993853/tenor.gif~https://media.tenor.com/images/ac28236fe0f29966dd4ed96e9bf155f3/tenor.gif~https://media.tenor.com/images/ecf4840ba6fac22be773e586493d5283/tenor.gif}}
 
+
+↓↓↓↓↓↓↓FOOTER↓↓↓↓↓↓↓↓
 ```insert more gifs links (by copying image address) after ~)```
 ```put {avatar} in icon url```
 ```put {name} in name```
 ```put {gif} in image url```
+
