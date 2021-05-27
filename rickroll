@@ -1,4 +1,4 @@
-↓↓↓↓↓↓↓content↓↓↓↓↓↓↓
+↓↓↓↓↓↓↓CONTENT↓↓↓↓↓↓↓
 
 {delete}
 {let(avatar):{user(avatar)}}
@@ -8,7 +8,7 @@
 {let(name):{user(name)}}
 
 
-↓↓↓↓↓↓↓footers↓↓↓↓↓↓↓
+↓↓↓↓↓↓↓IN THE EMBED BUILDER↓↓↓↓↓↓↓
 ```put {avatar} in icon url```
 ```put {name} in name```
 ```put https://c.tenor.com/joDp2CImoQoAAAAM/rick-roll.gif in image url```
