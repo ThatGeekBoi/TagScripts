@@ -1,0 +1,14 @@
+↓↓↓↓↓↓↓CONTENT↓↓↓↓↓↓↓
+{delete}
+{let(avatar):{user(avatar)}}
+{let(name):{user(name)}}
+{let(desc):{if({user(id)}==<<yourid>>):<<any text>>|<<text that should display when someone else uses the command>>}}
+{let(gif):{if({user(id)}==<<yourid>>):<<any direct link>>|<<direct link to a gif that will display when someone else uses the command>>}}
+{let(thum):{if({user(id)}==<<yourid>>):<<any direct link>>|<<direct link to a that that will display when someone else uses the command>>}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+↓↓↓↓↓↓↓IN THE EMBED BUILDER↓↓↓↓↓↓↓
+Put {avatar} in Icon URL
+Put {name} in Name
+Put {desc} in Description
+Put {gif} in Image URL
+Put {thum} in Thumbnail URL
