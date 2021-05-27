@@ -1,0 +1,15 @@
+~content~
+{delete}
+{let(avatar):{user(avatar)}}
+
+
+
+{let(name):{user(name)}}
+
+
+~footers~
+```put {avatar} in icon url```
+```put {name} in name```
+```put https://c.tenor.com/joDp2CImoQoAAAAM/rick-roll.gif in image url```
+```put https://c.tenor.com/yFDsWmwc0gkAAAAj/rick-roll-rick-astley.gif in thumbnail url```
+```delete all footers after done```
